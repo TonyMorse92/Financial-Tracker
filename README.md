@@ -1,8 +1,6 @@
 # Financial-Tracker
 Webpage for tracking finances
 
-Frontend will be in React
-
-and 
+Frontend will be in React 
 
 Backend will be in Flask (Python)
